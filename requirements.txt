@@ -1,0 +1,7 @@
+gradio
+torch
+transformers
+Pillow
+peft
+datasets
+tqdm
